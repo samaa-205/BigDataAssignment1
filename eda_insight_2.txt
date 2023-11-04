@@ -1,0 +1,42 @@
+A considerable number of respondents indicated that they frequently listen to different types of music  music Rock, Video game music,Jazz,R&B,Pop,Rap,Classical, Hip hop . 
+[Frequency [Rock]
+Very frequently    330
+Sometimes          219
+Rarely              96
+Never               91
+Name: count, dtype: int64, Frequency [Video game music]
+Never              236
+Rarely             197
+Sometimes          186
+Very frequently    117
+Name: count, dtype: int64, Frequency [Jazz]
+Never              261
+Rarely             247
+Sometimes          175
+Very frequently     53
+Name: count, dtype: int64, Frequency [R&B]
+Never              225
+Rarely             211
+Sometimes          184
+Very frequently    116
+Name: count, dtype: int64, Frequency [Pop]
+Very frequently    277
+Sometimes          261
+Rarely             142
+Never               56
+Name: count, dtype: int64, Frequency [Rap]
+Rarely             215
+Never              200
+Sometimes          195
+Very frequently    126
+Name: count, dtype: int64, Frequency [Classical]
+Rarely             259
+Sometimes          200
+Never              169
+Very frequently    108
+Name: count, dtype: int64, Frequency [Hip hop]
+Sometimes          218
+Rarely             214
+Never              181
+Very frequently    123
+Name: count, dtype: int64]
